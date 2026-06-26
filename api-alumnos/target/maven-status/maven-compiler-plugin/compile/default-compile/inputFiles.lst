@@ -1,0 +1,15 @@
+C:\Workspace\java\ApiAlumnos\api-alumnos\src\main\java\edu\utvt\alumnos\ApiAlumnosApplication.java
+C:\Workspace\java\ApiAlumnos\api-alumnos\src\main\java\edu\utvt\alumnos\config\OpenApiConfig.java
+C:\Workspace\java\ApiAlumnos\api-alumnos\src\main\java\edu\utvt\alumnos\controller\AlumnoController.java
+C:\Workspace\java\ApiAlumnos\api-alumnos\src\main\java\edu\utvt\alumnos\dto\request\AlumnoRequest.java
+C:\Workspace\java\ApiAlumnos\api-alumnos\src\main\java\edu\utvt\alumnos\dto\response\AlumnoResponse.java
+C:\Workspace\java\ApiAlumnos\api-alumnos\src\main\java\edu\utvt\alumnos\dto\response\ApiResponse.java
+C:\Workspace\java\ApiAlumnos\api-alumnos\src\main\java\edu\utvt\alumnos\entity\Alumno.java
+C:\Workspace\java\ApiAlumnos\api-alumnos\src\main\java\edu\utvt\alumnos\exception\AlumnoNotFoundException.java
+C:\Workspace\java\ApiAlumnos\api-alumnos\src\main\java\edu\utvt\alumnos\exception\CorreoElectronicoAlreadyExistsException.java
+C:\Workspace\java\ApiAlumnos\api-alumnos\src\main\java\edu\utvt\alumnos\exception\MatriculaAlreadyExistsException.java
+C:\Workspace\java\ApiAlumnos\api-alumnos\src\main\java\edu\utvt\alumnos\handler\GlobalExceptionHandler.java
+C:\Workspace\java\ApiAlumnos\api-alumnos\src\main\java\edu\utvt\alumnos\mapper\AlumnoMapper.java
+C:\Workspace\java\ApiAlumnos\api-alumnos\src\main\java\edu\utvt\alumnos\repository\AlumnoRepository.java
+C:\Workspace\java\ApiAlumnos\api-alumnos\src\main\java\edu\utvt\alumnos\service\AlumnoService.java
+C:\Workspace\java\ApiAlumnos\api-alumnos\src\main\java\edu\utvt\alumnos\service\impl\AlumnoServiceImpl.java

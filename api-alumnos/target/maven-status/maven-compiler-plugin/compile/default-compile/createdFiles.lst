@@ -1,0 +1,17 @@
+edu\utvt\alumnos\service\impl\AlumnoServiceImpl.class
+edu\utvt\alumnos\controller\AlumnoController.class
+edu\utvt\alumnos\handler\GlobalExceptionHandler.class
+edu\utvt\alumnos\repository\AlumnoRepository.class
+edu\utvt\alumnos\exception\MatriculaAlreadyExistsException.class
+edu\utvt\alumnos\ApiAlumnosApplication.class
+edu\utvt\alumnos\dto\response\ApiResponse.class
+edu\utvt\alumnos\dto\response\ApiResponse$ApiResponseBuilder.class
+edu\utvt\alumnos\mapper\AlumnoMapper.class
+edu\utvt\alumnos\service\AlumnoService.class
+edu\utvt\alumnos\mapper\AlumnoMapperImpl.class
+edu\utvt\alumnos\dto\response\AlumnoResponse.class
+edu\utvt\alumnos\entity\Alumno.class
+edu\utvt\alumnos\exception\AlumnoNotFoundException.class
+edu\utvt\alumnos\exception\CorreoElectronicoAlreadyExistsException.class
+edu\utvt\alumnos\config\OpenApiConfig.class
+edu\utvt\alumnos\dto\request\AlumnoRequest.class
